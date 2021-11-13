@@ -1,0 +1,6 @@
+.successdiv{
+    background-color:bisque; width:150px; border:solid 1px black; 
+}
+.failurediv{
+    background-color:greenyellow; width:150px; border:solid 1px black; 
+}

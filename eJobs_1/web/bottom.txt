@@ -1,0 +1,4 @@
+<input type="button" value="Back" onClick="history.back()"/>
+<a href="JobServlet?op=8">Logout</a>
+<hr/>
+<center>&copy; TecDev</center>

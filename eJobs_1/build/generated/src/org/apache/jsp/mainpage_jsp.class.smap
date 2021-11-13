@@ -1,0 +1,26 @@
+SMAP
+mainpage_jsp.java
+JSP
+*S JSP
+*F
++ 0 mainpage.jsp
+mainpage.jsp
++ 1 bottom.txt
+bottom.txt
+*L
+1,6:50
+7:56,3
+8,3:59
+18,2:62
+20:64,10
+21:74
+22:75,3
+23:78
+26,3:79
+29,8:83
+36,3:91
+1#1,5:94
+38#0:98
+39:99,2
+40,3:101
+*E
